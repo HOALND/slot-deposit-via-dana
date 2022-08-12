@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle situs-judi-slot-online-gacor-pragmatic-resmi-terpercaya",
+        "command": "situs-judi-slot-online-gacor-pragmatic-resmi-terpercaya:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "situs-judi-slot-online-gacor-pragmatic-resmi-terpercaya",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "situs-judi-slot-online-gacor-pragmatic-resmi-terpercaya:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
