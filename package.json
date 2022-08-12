@@ -1,0 +1,18 @@
+{
+  "name": "situs-judi-slot-online-gacor-pragmatic-resmi-terpercaya",
+  "main": "./lib/situs-judi-slot-online-gacor-pragmatic-resmi-terpercaya",
+  "version": "0.5.0",
+  "description": "Main di situs judi slot online gacor gampang menang SENANG303 dan menangkan jackpot slot terbesar hingga ratusan juta rupiah!",
+  "keywords": ["slot online","slot gacor","judi slot","slot resmi","slot terbaru","slot terpercaya","situs slot"
+  ],
+  "activationCommands": {
+    "atom-workspace": "situs-judi-slot-online-gacor-pragmatic-resmi-terpercaya:toggle"
+  },
+  "repository": "https://github.com/senang303-gacor/situs-judi-slot-online-gacor-pragmatic-resmi-terpercaya.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
